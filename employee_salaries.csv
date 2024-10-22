@@ -1,0 +1,8 @@
+name,department,salary
+Amit,HR,50000
+Neha,Engineering,75000
+Ravi,HR,55000
+Pooja,Engineering,80000
+Rohit,Marketing,60000
+Priya,HR,InvalidSalary
+Suman,Marketing,62000
